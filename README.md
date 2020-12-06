@@ -1,4 +1,5 @@
 # sensor-buoy
 - Collecting pH, temperature with Raspberry Pi
-- Requesting/processing measurement data over internet
+- Requesting measurement data over internet
+- Processing measurement data
 - In collaboration with MIT Sea Grant
